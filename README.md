@@ -61,7 +61,7 @@ These should contain the text content you want to compare.
 
 python3 plagiarism_checker.py
 
-sample output:
+### sample output:
 🧾 Plagiarism Report:
 🔸 Sentence Similarity: 83.33%
 🔸 Word Similarity: 91.25%
@@ -71,3 +71,36 @@ sample output:
 • machine learning is a subfield of ai
 • python is widely used in ai projects
 • text processing is key in nlp
+
+🧾 Plagiarism Report:
+🔸 Sentence Similarity: 83.33%
+🔸 Word Similarity: 91.25%
+🔍 Common Sentences Found: 5
+
+👀 Sample Common Sentences:
+• machine learning is a subfield of ai
+• python is widely used in ai projects
+• text processing is key in nlp
+
+# 🔮 Future Improvements
+Once I move further in my AI roadmap, I plan to:
+
+Add NLP tokenization (using nltk or spaCy)
+
+Use cosine similarity or TF-IDF
+
+Accept .docx or .pdf files
+
+Create a web version with Flask
+
+Auto-generate detailed PDF reports
+
+
+# 🪪 License
+MIT License — use freely and improve it!
+
+# ✍️ Author
+Nithish Kumar
+GitHub: @Nithish-Asm2Py
+
+💬 Always building, always learning.
